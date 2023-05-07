@@ -71,8 +71,6 @@ a space in between, where we will put −5 and 5 for all functions:
   caption="Leyenda de la imagen">
   
  ## How to use the program
-    To use the algorithm, first of all you must modify the function within the code and then execute the program. When the console appears
-you must enter the values of the interval $(a, b)$ in which you want to graph and followed by
-A window will appear in which you can see the graph of the function. To zoom you just have to left click on the screen where you want
-enlarge the graphic, if you touch it three times the graphic will appear with original resolution, the same happens if you right click
+    
+To use the algorithm, first of all you must modify the function within the code and then execute the program. When the console appear you must enter the values of the interval $(a, b)$ in which you want to graph and followed by A window will appear in which you can see the graph of the function. To zoom you just have to left click on the screen where you want enlarge the graphic, if you touch it three times the graphic will appear with original resolution, the same happens if you right click
     
