@@ -34,4 +34,9 @@ right upwards you can see a number that indicates the position in the
 where the cursor is, this is done with the void coordinates() function inside the
 while loop
 
-![1](/Graphics/1.png)
+
+<image
+  src="/Graphics/1.png"
+  alt="Descripción de la imagen"
+  caption="Leyenda de la imagen">
+  
