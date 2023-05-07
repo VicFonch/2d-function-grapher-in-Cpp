@@ -1,4 +1,4 @@
-# 2D Function Grapher-in C++
+# 2D Function Grapher in C++
 
 ## Summary
 This project aims to create a program in the language
