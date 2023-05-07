@@ -33,3 +33,5 @@ meet your goal.
 right upwards you can see a number that indicates the position in the
 where the cursor is, this is done with the void coordinates() function inside the
 while loop
+
+
